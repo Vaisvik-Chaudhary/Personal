@@ -17,8 +17,8 @@ $navbar-default-bg: #080752;
 
 .center {
     text-align: center;
-    margin-top:100px;
-    background-color: rgb(99, 91, 81);
+    margin-top:10px;
+    // background-color: rgb(99, 91, 81);
 }
 
 .jumbotron{
@@ -41,7 +41,9 @@ $navbar-default-bg: #080752;
     background-color: black;
     color: #fff;
 }
-
+.description{
+    margin-top: 0;
+}
 .footer{
     // margin-top: 40px;
     padding-top: 10px;
